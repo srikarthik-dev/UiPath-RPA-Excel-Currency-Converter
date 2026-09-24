@@ -1,3 +1,5 @@
+<img width="659" height="469" alt="image" src="https://github.com/user-attachments/assets/91d8d50b-8d80-43f0-b3a3-0fcc7d6a8472" />
+<img width="1709" height="923" alt="image" src="https://github.com/user-attachments/assets/d1f4ac44-f71d-40b8-a795-764197e4ef50" />
 # UiPath RPA: Excel INR to USD Currency Converter
 
 An automated Robotic Process Automation (RPA) workflow developed with **UiPath Studio Web** on macOS. This workflow reads tabular data from an Excel workbook, extracts phone number values as INR figures, converts them to USD via Google Search using in-browser JavaScript injection, and writes the converted values into a dedicated worksheet (`Sheet2`).
