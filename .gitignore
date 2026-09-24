@@ -1,0 +1,13 @@
+# UiPath runtime, execution, and local files
+.local/
+.screenshots/
+.entities/
+.tmh/
+*.log
+SolutionStorage.json
+
+# macOS system files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
